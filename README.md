@@ -125,6 +125,7 @@
 ## 🐍🐍Python to Expert
 |Pyton         | Guide + Video Link |
 |--------------|--------------------|
+|📙 `Data Structures & Algorithms in Python` |[Playlist](https://www.youtube.com/playlist?list=PLREhfdPXr-ejqAKVpVSVPhVLQKyRsVc1N) |
 |📙 `Algorithms - LeetCode Crux`|[Private Link](https://www.kaggle.com/code/mukeshmanral/algorithms-tips-leetcode-crux-python-3-x/notebook)|
 |📙 `Python - Data Structure and Algorithm Foundation` | [Private Link](https://www.kaggle.com/code/mukeshmanral/data-structure-and-algorithm-foundation-in-python/) |
 |📙 `Python - Data Structure & TimeComplexities Crux`|[Private Link](https://www.kaggle.com/code/mukeshmanral/python-datastructure-timecomplexities/notebook)|
