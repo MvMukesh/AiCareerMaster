@@ -412,6 +412,11 @@ While `choosing an algorithm` for **`Scene Classification`**, consider following
 * [Testing and Monitoring Deployments](https://github.com/MvMukesh/Monitoring-Testing-Deployments)
 
 
+## GENAI Map
+
+![09646d0f-6c3b-4246-8093-42afc44e88c8](https://github.com/user-attachments/assets/ff84a69b-14fd-489e-960a-8ebc71e0d1c8)
+
+
 ## 🔗Connect With me 
 🎈[AI NewsLatter](https://www.linkedin.com/newsletters/6872441622500585472/) <br>
 🎈[LinkedIn](https://www.linkedin.com/in/mukesh-manral/)
